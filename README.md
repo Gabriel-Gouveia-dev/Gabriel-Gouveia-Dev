@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel!
 
-<!--
-**Gabriel-Gouveia-dev/Gabriel-Gouveia-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💻 Focado em desenvolvimento back-end  
+🚀 Buscando oportunidade de estágio em TI  
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias
+- JavaScript
+- Python
+- C/C++
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+- To-Do List
+- Calculadora IMC
+- Calculadora
+
+## 📈 Atualmente estudando
+- Node.js
+- Banco de Dados
